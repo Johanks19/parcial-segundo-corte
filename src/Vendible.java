@@ -1,4 +1,5 @@
-package PACKAGE_NAME;
-
 public interface Vendible {
+
+    double calcularPrecioVenta(int cantidad);
+
 }
